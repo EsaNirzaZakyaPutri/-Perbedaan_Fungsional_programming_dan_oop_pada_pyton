@@ -1,0 +1,1 @@
+# -Perbedaan_Fungsional_programming_dan_oop_pada_pyton
